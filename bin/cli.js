@@ -15,15 +15,6 @@ const questions = [
     message: "请输入作者的名称:",
   },
   {
-    type: "list",
-    name: "ssss",
-    message: "样式预处理语言:",
-    choices: [
-      { name: "scss", value: 1 },
-      { name: "less", value: 2 },
-    ],
-  },
-  {
     type: "input",
     name: "description",
     message: "请输入项目介绍:",
