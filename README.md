@@ -4,6 +4,6 @@
 ## Start
 
 ```
-ctaro creat [your project name]
+biu init [your project name]
 ```
 
